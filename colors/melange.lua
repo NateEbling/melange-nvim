@@ -213,7 +213,7 @@ for name, attrs in pairs {
   -- ['@function.method'] = {},
   -- ['@constructor'] = {},
 
-  -- ['@punctuation.bracket'] = {},
+  ['@punctuation.bracket'] = { fg = a.fg },
   ['@punctuation.delimiter'] = { fg = a.fg },
   -- ['@punctuation.special'] = {},
 
