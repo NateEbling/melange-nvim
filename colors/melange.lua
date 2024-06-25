@@ -125,7 +125,7 @@ for name, attrs in pairs {
   -- Conditional = {},
   -- Repeat = {},
   -- Label = {},
-  Operator = { fg = b.red },
+  Operator = { fg = a.fg },
   -- Keyword = {},
   -- Exception = {},
 
@@ -214,7 +214,7 @@ for name, attrs in pairs {
   -- ['@constructor'] = {},
 
   -- ['@punctuation.bracket'] = {},
-  ['@punctuation.delimiter'] = { fg = c.red },
+  ['@punctuation.delimiter'] = { fg = a.fg },
   -- ['@punctuation.special'] = {},
 
   -- ['@comment'] = {},
