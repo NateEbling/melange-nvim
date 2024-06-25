@@ -201,7 +201,7 @@ for name, attrs in pairs {
   -- ['@variable.member'] = {},
 
   -- ['@type'] = {},
-  -- ['@type.builtin'] = {},
+  ['@type.builtin'] = { fg = "#c4b82b" },
   -- ['@type.definition'] = {},
   ['@type.qualifier'] = 'Statement',
   -- ['@attribute'] = {},
