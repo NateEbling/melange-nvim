@@ -135,7 +135,7 @@ for name, attrs in pairs {
   -- Macro = {},
   -- PreCondit = {},
 
-  Type = { fg = b.yellow },
+  Type = { fg = b.blue },
   -- StorageClass = {},
   -- Structure = {},
   -- Typedef = {},
