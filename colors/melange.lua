@@ -113,7 +113,7 @@ for name, attrs in pairs {
 
   Comment = { fg = a.com, italic = italic },
   Identifier = { fg = a.fg },
-  Function = { fg = b.yellow },
+  Function = { fg = "#cc5735" },
   Constant = { fg = c.magenta },
   String = { fg = b.blue, italic = italic },
   Character = { fg = c.blue },
@@ -135,7 +135,7 @@ for name, attrs in pairs {
   -- Macro = {},
   -- PreCondit = {},
 
-  Type = { fg = c.cyan },
+  Type = { fg = b.yellow },
   -- StorageClass = {},
   -- Structure = {},
   -- Typedef = {},
