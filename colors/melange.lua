@@ -135,7 +135,7 @@ for name, attrs in pairs {
   -- Macro = {},
   -- PreCondit = {},
 
-  Type = { fg = "#62a299" },
+  Type = { fg = b.yellow },
   -- StorageClass = {},
   -- Structure = {},
   -- Typedef = {},
@@ -201,7 +201,7 @@ for name, attrs in pairs {
   -- ['@variable.member'] = {},
 
   -- ['@type'] = {},
-  ['@type.builtin'] = { fg = "#62a299" },
+  --['@type.builtin'] = { fg = "#62a299" },
   -- ['@type.definition'] = {},
   ['@type.qualifier'] = 'Statement',
   -- ['@attribute'] = {},
