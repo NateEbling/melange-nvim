@@ -201,7 +201,7 @@ for name, attrs in pairs {
   -- ['@variable.member'] = {},
 
   -- ['@type'] = {},
-  ['@type.builtin'] = { fg = "#c4b82b" },
+  --['@type.builtin'] = { fg = "#c4b82b" },
   -- ['@type.definition'] = {},
   ['@type.qualifier'] = 'Statement',
   -- ['@attribute'] = {},
@@ -307,7 +307,7 @@ for name, attrs in pairs {
   ['@lsp.type.macro'] = {},
   -- ['@lsp.type.method'] = 'Function',
   ['@lsp.type.namespace'] = { fg = c.green },
-  ['@lsp.type.parameter'] = { fg = a.fg, bold = bold },
+  ['@lsp.type.parameter'] = { fg = a.fg },
   -- ['@lsp.type.property'] = 'Identifier',
   -- ['@lsp.type.struct'] = 'Structure',
   -- ['@lsp.type.type'] = 'Type',
