@@ -1,7 +1,8 @@
 -- stylua: ignore
 return {
   a = {
-    bg      = "#292522",
+    --bg      = "#292522",
+    bg      = "#0c0c0c",
     float   = "#34302C",
     sel     = "#403A36",
     ui      = "#867462",
@@ -10,7 +11,8 @@ return {
   },
   b = {
     red     = "#D47766",
-    yellow  = "#EBC06D",
+    --yellow  = "#EBC06D",
+    yellow  = "#c4b82b",
     green   = "#85B695",
     cyan    = "#89B3B6",
     blue    = "#A3A9CE",
@@ -18,7 +20,8 @@ return {
   },
   c = {
     red     = "#BD8183",
-    yellow  = "#EBC06D",
+    --yellow  = "#EBC06D",
+    yellow  = "#cb9401",
     green   = "#78997A",
     cyan    = "#7B9695",
     blue    = "#7F91B2",
