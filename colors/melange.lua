@@ -117,7 +117,7 @@ for name, attrs in pairs {
   Constant = { fg = c.magenta },
   String = { fg = b.blue, italic = italic },
   Character = { fg = c.blue },
-  Number = { fg = b.magenta },
+  Number = { fg = "#9ba290" },
   Boolean = 'Number',
   -- Float = {},
 
