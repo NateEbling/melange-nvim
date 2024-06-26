@@ -129,7 +129,7 @@ for name, attrs in pairs {
   -- Keyword = {},
   -- Exception = {},
 
-  PreProc = { fg = b.green },
+  PreProc = { fg = c.green },
   -- Include = {},
   -- Define = {},
   -- Macro = {},
