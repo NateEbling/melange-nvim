@@ -304,7 +304,7 @@ for name, attrs in pairs {
   -- ['@lsp.type.enumMember'] = 'Constant',
   -- ['@lsp.type.function'] = 'Function',
   -- ['@lsp.type.interface'] = 'Structure',
-  ['@lsp.type.macro'] = {},
+  ['@lsp.type.macro'] = { fg = b.magenta},
   -- ['@lsp.type.method'] = 'Function',
   ['@lsp.type.namespace'] = { fg = c.green },
   ['@lsp.type.parameter'] = { fg = a.fg },
